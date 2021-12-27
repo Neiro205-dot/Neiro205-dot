@@ -11,3 +11,6 @@ Currently skills?
 JavaScript
 HTML
 CSS
+
+UPDATE:
+By now i know basics of React, nodejs and tailwincss
